@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://anandpandey.online/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Anand-Lighting-Pic-768x768.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Logos-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Logos-6-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Logos-1-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Logos-7-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Logos-9-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Logos-8-150x150.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/contact/</loc>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/services/seo-services-medininagar/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/Daltonganj-Railway-station-Medininagar-768x432.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/about/</loc>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/guide/seo-guide-medininagar/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/guide-to-seo-in-medininagar-by-Anand-Pandey-768x768.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/services/</loc>
@@ -50,63 +23,24 @@
 	</url>
 	<url>
 		<loc>https://anandpandey.online/blog/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/02/guide-to-seo-in-medininagar-by-Anand-Pandey.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/seo-for-coaching-institutions.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/seo-trends-medininagar-2026.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/medininagar-seo-checklist-blueprint.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/seo-vocabulary-for-businesses-in-medininagar.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/anand-pandey-seo-marketing-interview-medininagar.jpg-1024x1024.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/google-business-profile-setup-tutorial-medininagar-1024x1024.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/checklist/website-launch-seo-checklist-medininagar/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/medininagar-seo-checklist-blueprint-768x768.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/tutorial/how-to-set-up-google-business-profile-in-medininagar/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/google-business-profile-setup-tutorial-medininagar-768x768.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/interview/why-most-medininagar-businesses-are-invisible-on-google/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/anand-pandey-seo-marketing-interview-medininagar.jpg-768x768.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/vocabulary/seo-terms-explained-for-businesses/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/seo-vocabulary-for-businesses-in-medininagar-768x768.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/guide/seo-for-coaching-institutions-in-medininagar/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/seo-for-coaching-institutions-768x768.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/report/seo-and-digital-marketing-growth-in-medininagar/</loc>
-		<image:image>
-			<image:loc>https://anandpandey.online/wp-content/uploads/2026/03/seo-trends-medininagar-2026-768x768.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://anandpandey.online/report/</loc>
