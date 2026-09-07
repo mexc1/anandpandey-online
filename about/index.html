@@ -85,11 +85,11 @@ html{scroll-behavior:smooth}
 /* how i work */
 .about-h2-wrap{margin-bottom:16px}
 .about-h2-wrap h2{color:#0F0715;font-size:34px}
-.about-lede{color:#4d4d4d;font-size:16px;margin-bottom:32px}
+.about-lede{color:#4d4d4d;font-size:16px;margin-bottom:44px}
 
 .steps{position:relative;list-style:none;margin:0;padding:0 0 0 64px;counter-reset:step}
 .steps::before{content:"";position:absolute;left:23px;top:6px;bottom:6px;width:2px;background:#88419F33}
-.steps li{position:relative;margin-bottom:20px}
+.steps li{position:relative;margin-bottom:28px}
 .steps li:last-child{margin-bottom:0}
 .steps li::before{counter-increment:step;content:counter(step);position:absolute;left:-64px;top:0;width:48px;height:48px;border-radius:50%;background:#fff;border:2px solid #88419F;color:#88419F;font-family:"Roboto",sans-serif;font-weight:700;font-size:18px;display:flex;align-items:center;justify-content:center}
 .step-body{background:#fff;border:1px solid #e3e3e3;border-radius:14px;padding:20px 24px}
@@ -139,7 +139,7 @@ a:focus-visible{outline:3px solid #88419F;outline-offset:2px}
 	.about-hero-row{flex-direction:column;gap:24px;text-align:center}
 	.about-hero-row > div{display:flex;flex-direction:column;align-items:center}
 	.about-hero h1{font-size:38px}
-	.about-photo{width:220px;height:220px}
+	.about-photo{width:220px;height:220px;flex:none}
 	.about-avail{justify-content:center}
 	.about-section{padding:48px 20px}
 	.about-h2-wrap h2{font-size:26px}
@@ -151,7 +151,7 @@ a:focus-visible{outline:3px solid #88419F;outline-offset:2px}
 }
 @media(max-width:360px){
 	.about-hero h1{font-size:32px}
-	.about-photo{width:160px;height:160px;border-radius:14px}
+	.about-photo{width:160px;height:160px;flex:none;border-radius:14px}
 	.steps{padding-left:42px}
 	.steps::before{left:13px}
 	.steps li::before{left:-42px;width:28px;height:28px;font-size:13px;border-width:1.5px}
